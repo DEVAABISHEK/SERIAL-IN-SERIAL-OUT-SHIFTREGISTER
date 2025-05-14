@@ -64,5 +64,5 @@ endmodule
 **TIMING DIGRAMS FOR SISO Shift Register**
 ![image](https://github.com/user-attachments/assets/30874226-555a-4ad2-ac79-a7df13915425)
 
-**RESULTS**
+## RESULT
 Thus the SISO Shift Register using verilog and validating their functionality using their functional tables is verified.
